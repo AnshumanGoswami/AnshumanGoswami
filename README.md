@@ -1,6 +1,5 @@
 ### Hi there 👋 this is Anshuman Goswami
 
-<!--
 Dear Visitor, Happy to see you..
 
 About me:-
@@ -56,4 +55,3 @@ IDE = Eclipse, STS4, Pycharm, Jupyter, Rstudio
 Management Tools = JIRA, QC
 
 Testing Framework = BDD, Springboot
--->
