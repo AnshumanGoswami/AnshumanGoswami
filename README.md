@@ -2,7 +2,7 @@
 
 Dear Visitor, Happy to see you..
 
-About me:-
+**About me:-**
 
 · 9+ years of experience in IT across different verticals in financial domain.
 
@@ -27,8 +27,8 @@ About me:-
 · Having experience in Agile/SAFe ways of working.
 
 · Flexible and open to learn and work on any new tools and technologies.
-
-Certification:
+**
+Certification:**
 
 · Pursuing IPBA(Integrated Program in Business Analytics) from IIM Indore which will be completed by July 2021.
 
@@ -42,7 +42,7 @@ Certification:
 
 · Infosys certified Agile Developer.
 
-Technical Skills:
+**Technical Skills:**
 
 Tools = Git,Cucumber,Maven,Jenkins,SPF,Splunk,Postman
 
