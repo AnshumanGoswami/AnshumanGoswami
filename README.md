@@ -1,6 +1,6 @@
-### Hi there 👋 this is Anshuman Goswami
+### Hi there 👋 this is Anshuman Goswami!
 
-Dear Visitor, Happy to see you..
+Happy to see you!!
 
 **About me:-**
 
