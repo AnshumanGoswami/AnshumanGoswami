@@ -8,6 +8,8 @@ Happy to see you!!
 
 · At present working as a Senior Consultant with Capgemini.
 
+· Beginer trying to be inhnace my knowledge in Python,R, Statistical Modelling, ML,NLP, Big Data and Tableau.
+
 · 2.5+ years of experience as API automation tester using postman and RESTAssured.
 
 · 1 years of experience as exploratory tester(Browser,Mobile,Accessibility)
@@ -27,8 +29,9 @@ Happy to see you!!
 · Having experience in Agile/SAFe ways of working.
 
 · Flexible and open to learn and work on any new tools and technologies.
-**
-Certification:**
+
+
+**Certification**
 
 · Pursuing IPBA(Integrated Program in Business Analytics) from IIM Indore which will be completed by July 2021.
 
