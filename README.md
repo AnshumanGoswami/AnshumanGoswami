@@ -1,4 +1,4 @@
-### Hi there 👋 this is Anshuman Goswami!
+### Hi there 👋 this is Anshuman Goswami(Looking for oppurtunity to fit in Data Science space)
 
 Happy to see you!!
 
